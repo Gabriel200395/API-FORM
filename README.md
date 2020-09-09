@@ -1,8 +1,11 @@
+Passo a passo para obter o projeto. 
 
 
 
-
-
+#clone o projeto ou faça downoload : https://github.com/Gabriel200395/API-FORM.git
+#entre na pasta: cd API-FORM 
+#baixa as independencias:  npm install e depois npm install cors --save
+#execute o projeto: npm run server
 
 
 
