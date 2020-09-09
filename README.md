@@ -1,42 +1,24 @@
-Passo a passo para obter o projeto. 
-
-
-
-#clone o projeto ou faça downoload : https://github.com/Gabriel200395/API-FORM.git
-#entre na pasta: cd API-FORM 
-#baixa as independencias:  npm install e depois npm install cors --save
-#execute o projeto: npm run server
-
-
-
-CRONOGRAMA DO PROJETO LOGO ABAIXO.
-
-1 - demos um npm init para criar o nosso package 
-2 - instalamos o npm install express para verificar as nossas rotas 
-3 - instalamos npm install -D nodemon para atualizar a nossa aplicação e criar um server 
-no nosso package para rodar
+<html>
+    <h3>Esse aqui e o crud da aplicação de cadastro de alunos, fazendo a integração com o banco</h3>
+    <body>
+        <h5>Passo a passo para obter o projeto. <h5>
+         <ul>
+         <li>#clone o projeto ou faça downoload : https://github.com/Gabriel200395/API-FORM.git</li>
+         <li>#entre na pasta: cd API-FORM</li>
+         <li>#baixa as independencias:  npm install e depois npm install cors --save</li>
+         <li>#execute o projeto: npm run server</li>
+        </ul>
+         <br /> 
+         <h5>Banco de Dados</h5>
+         <ul>
+          <li>1 - npm install --save mongodb</li>
+          <li>2 - npm install --save mongoose </li>
+          <li>3 - Validação de Schema https://mongoosejs.com/docs/guide.html</li>
+          <li>4 - Instalação do cors npm install cors https://www.npmjs.com/package/cors</li>
+         </ul> 
+    </body>
+</html>
  
------------------------------------------------ 
-
-Banco de Dados  
-
-//Instalar o Mongo 
-
-npm install --save mongodb 
-
-// instalar o mongose - para traduzir os dados do banco de dados para objetos javaScript para que passam ser utilizados por sua aplicação. 
-
-npm install --save mongoose 
-
-Validação de Schema 
-https://mongoosejs.com/docs/guide.html 
-
-Cors 
-
-Instalação do cors
-npm install cors
-https://www.npmjs.com/package/cors
-
 -----------------------------------------------------------------------
 
 
