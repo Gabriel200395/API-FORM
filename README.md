@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+CRONOGRAMA DO PROJETO LOGO ABAIXO.
+
 1 - demos um npm init para criar o nosso package 
 2 - instalamos o npm install express para verificar as nossas rotas 
 3 - instalamos npm install -D nodemon para atualizar a nossa aplicação e criar um server 
