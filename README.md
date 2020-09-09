@@ -31,9 +31,7 @@ para adicionar cada usuário no banco isso e o POST ai passando uma condicao ret
           <li>4- criamos as nossa rota normalmente com "/usuario/:id" e passando o deleteOne({_id: req.params.id})
 para deletar cada _id no meu banco isso e o Delete ai passando uma condicao retornado o erro caso o usuário não consiga fazer o cadastro, mais caso consigar retornado a message sucessso e o status de 200
 </li>  <li>5- modificando o id no meu banco com o updateOne({_id: req.params.id}, req.body) para ser atualizado no meu banco.
-<li>     
-    <li>6 - habilitamos o cors para fazer as nossas requições com o banco sem a interferência do navegador.
-<li>
+    <li>6 - habilitamos o cors para fazer as nossas requições com o banco sem a interferência do navegador.</li>
          </ul>   
     </body>
 </html>
