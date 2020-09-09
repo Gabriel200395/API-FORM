@@ -13,8 +13,8 @@
          <ul>
           <li>1 - npm install --save mongodb</li>
           <li>2 - npm install --save mongoose </li>
-          <li>3 - Validação de Schema https://mongoosejs.com/docs/guide.html</li>
-          <li>4 - Instalação do cors npm install cors https://www.npmjs.com/package/cors</li>
+          <li>3 - Instalação do cors npm install cors https://www.npmjs.com/package/cors</li>
+          <li>4 - Validação de Schema https://mongoosejs.com/docs/guide.html</li>
          </ul> 
            <ul>
           <li>1- criamos as nossa rota normalmente com "/usuario" e passando o find({})
