@@ -16,6 +16,8 @@
           <li>3 - Instalação do cors npm install cors https://www.npmjs.com/package/cors</li>
           <li>4 - Validação de Schema https://mongoosejs.com/docs/guide.html</li>
          </ul> 
+            <br />
+                <h5>Passo a passo das funcionalidades do banco</h5>
            <ul>
           <li>1- criamos as nossa rota normalmente com "/usuario" e passando o find({})
 para buscar cada elemento no meu banco isso e o GET ai passando como resposta
