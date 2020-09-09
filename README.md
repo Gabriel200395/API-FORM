@@ -51,4 +51,3 @@ para deletar cada _id no meu banco isso e o Delete ai passando uma condicao reto
 
 6 - habilitamos o cors para fazer as nossas requições com o banco sem a interferência do navegador.
 
-# API-FORM
