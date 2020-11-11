@@ -13,7 +13,7 @@
 - Clone o projeto: `git clone https://github.com/Gabriel200395/API-FORM.git`;
 - Entrar na pasta do projeto: `cd API-FORM`;
 - Instalar as dependências: `npm install`;
-- Iniciar a aplicação: `npm start`.
+- Iniciar a aplicação: `npm server`.
 - OBS: Caso o projeto de erro no cors (npm install cors)
 
 ## :pencil: Autor
