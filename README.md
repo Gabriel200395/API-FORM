@@ -10,8 +10,8 @@
 
 ## 💻 Como usar
 
-- Clone o projeto: `git clone https://github.com/Gabriel200395/controle-estoque-api.git`;
-- Entrar na pasta do projeto: `cd controle-estoque-api`;
+- Clone o projeto: `git clone https://github.com/Gabriel200395/API-FORM.git`;
+- Entrar na pasta do projeto: `cd API-FORM`;
 - Instalar as dependências: `npm install`;
 - Iniciar a aplicação: `npm start`.
 - OBS: Caso o projeto de erro no cors (npm install cors)
